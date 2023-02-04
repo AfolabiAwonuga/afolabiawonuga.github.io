@@ -72,6 +72,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+img {
+    /* max-width: 200px; */
+    max-height: 200px;
+}
+
+
 /* Basic */
 
 	html {
